@@ -5,6 +5,10 @@
 
 ## Project setup:
 
+### Database setup:
+1. Go to Database -> "+" -> Data Source -> PostgreSQL -> and substitute your values in user and password.
+2. Manually add columns.
+
 ### Tomcat setup:
 1. Go to Add configuration... -> "+" -> Tomcat Server -> Local -> Rename Name -> Fix artifact.
 
